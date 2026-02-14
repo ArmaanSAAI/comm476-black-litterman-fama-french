@@ -9,7 +9,7 @@ Implemented a Black-Litterman optimizer with Fama-French (MKT/SMB/HML) factor vi
 
 ## Requirements
 - Python (Jupyter Notebook)
-- **WRDS access** (login required) to pull CRSP/Compustat data used in the analysis
+- **Wharton Research Data Services (WRDS) access** (login required) to pull CRSP/Compustat data used in the analysis
 - Standard Python packages (e.g., pandas, numpy, matplotlib; additional packages noted in the notebook)
 
 ## How to Run
