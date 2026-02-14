@@ -1,0 +1,126 @@
+Holding,Ticker,Weighting
+Apple Inc.,AAPL,6.34%
+Microsoft Corporation,MSFT,5.86%
+Visa Inc. Class A,V,5.37%
+Mastercard Incorporated Class A,MA,4.89%
+NVIDIA Corporation,NVDA,4.86%
+Meta Platforms Inc Class A,META,3.87%
+Eli Lilly and Company,LLY,3.49%
+TJX Companies Inc,TJX,2.31%
+UnitedHealth Group Incorporated,UNH,2.19%
+"Netflix, Inc.",NFLX,2.13%
+Costco Wholesale Corporation,COST,1.91%
+Alphabet Inc. Class A,GOOGL,1.81%
+"Automatic Data Processing, Inc.",ADP,1.79%
+Johnson & Johnson,JNJ,1.78%
+Adobe Inc.,ADBE,1.66%
+Accenture Plc Class A,ACN,1.64%
+Procter & Gamble Company,PG,1.60%
+Alphabet Inc. Class C,GOOG,1.57%
+"NIKE, Inc. Class B",NKE,1.53%
+ConocoPhillips,COP,1.52%
+"Chipotle Mexican Grill, Inc.",CMG,1.28%
+QUALCOMM Incorporated,QCOM,1.26%
+Coca-Cola Company,KO,1.22%
+"Merck & Co., Inc.",MRK,1.22%
+Texas Instruments Incorporated,TXN,1.18%
+Caterpillar Inc.,CAT,1.15%
+"Applied Materials, Inc.",AMAT,1.11%
+KLA Corporation,KLAC,1.10%
+Linde plc,LIN,0.99%
+Lockheed Martin Corporation,LMT,0.96%
+"BlackRock, Inc.",BLK,0.93%
+Schlumberger Limited,SLB,0.91%
+Lam Research Corporation,LRCX,0.89%
+lululemon athletica inc.,LULU,0.87%
+"Marsh & McLennan Companies, Inc.",MMC,0.76%
+"PepsiCo, Inc.",PEP,0.74%
+Illinois Tool Works Inc.,ITW,0.74%
+"Arista Networks, Inc.",ANET,0.70%
+"D.R. Horton, Inc.",DHI,0.68%
+3M Company,MMM,0.66%
+Garmin Ltd.,GRMN,0.64%
+CME Group Inc. Class A,CME,0.60%
+Texas Pacific Land Corporation,TPL,0.58%
+Sempra,SRE,0.57%
+Cintas Corporation,CTAS,0.56%
+Amphenol Corporation Class A,APH,0.56%
+"Cadence Design Systems, Inc.",CDNS,0.54%
+Public Storage,PSA,0.53%
+Vertex Pharmaceuticals Incorporated,VRTX,0.53%
+"Simon Property Group, Inc.",SPG,0.52%
+"NVR, Inc.",NVR,0.51%
+Moody\'s Corporation,MCO,0.51%
+Trane Technologies plc,TT,0.50%
+Tractor Supply Company,TSCO,0.49%
+"Synopsys, Inc.",SNPS,0.49%
+"Paychex, Inc.",PAYX,0.48%
+"Williams-Sonoma, Inc.",WSM,0.46%
+"Ameriprise Financial, Inc.",AMP,0.46%
+"Consolidated Edison, Inc.",ED,0.46%
+AppLovin Corp. Class A,APP,0.43%
+"PulteGroup, Inc.",PHM,0.43%
+Public Service Enterprise Group Inc,PEG,0.43%
+"W.W. Grainger, Inc.",GWW,0.42%
+Deckers Outdoor Corporation,DECK,0.42%
+Sherwin-Williams Company,SHW,0.40%
+"CBRE Group, Inc. Class A",CBRE,0.39%
+Expand Energy Corporation,EXE,0.39%
+Aflac Incorporated,AFL,0.39%
+"Zoetis, Inc. Class A",ZTS,0.38%
+Fastenal Company,FAST,0.36%
+Atmos Energy Corporation,ATO,0.35%
+"American Water Works Company, Inc.",AWK,0.34%
+Ulta Beauty Inc.,ULTA,0.34%
+"CoStar Group, Inc.",CSGP,0.32%
+"Best Buy Co., Inc.",BBY,0.30%
+"Air Products and Chemicals, Inc.",APD,0.26%
+"AvalonBay Communities, Inc.",AVB,0.26%
+"Old Dominion Freight Line, Inc.",ODFL,0.25%
+Ecolab Inc.,ECL,0.24%
+Arch Capital Group Ltd.,ACGL,0.24%
+Pool Corporation,POOL,0.22%
+"IDEXX Laboratories, Inc.",IDXX,0.22%
+"NetApp, Inc.",NTAP,0.21%
+Equity Residential,EQR,0.21%
+Monster Beverage Corporation,MNST,0.20%
+"Monolithic Power Systems, Inc.",MPWR,0.20%
+Edwards Lifesciences Corporation,EW,0.19%
+"Manhattan Associates, Inc.",MANH,0.17%
+"DocuSign, Inc.",DOCU,0.17%
+Cboe Global Markets Inc,CBOE,0.16%
+Electronic Arts Inc.,EA,0.16%
+LPL Financial Holdings Inc.,LPLA,0.15%
+"Agilent Technologies, Inc.",A,0.15%
+Veralto Corporation,VLTO,0.15%
+T. Rowe Price Group,TROW,0.15%
+ResMed Inc.,RMD,0.14%
+Veeva Systems Inc Class A,VEEV,0.14%
+BlackRock Cash Funds Treasury SL Agency Shares,Other,0.13%
+"EMCOR Group, Inc.",EME,0.13%
+FactSet Research Systems Inc.,FDS,0.12%
+"Essential Utilities, Inc.",WTRG,0.12%
+"Rollins, Inc.",ROL,0.12%
+"PPG Industries, Inc.",PPG,0.11%
+Hershey Company,HSY,0.11%
+"Expeditors International of Washington, Inc.",EXPD,0.11%
+"Jack Henry & Associates, Inc.",JKHY,0.10%
+Graco Inc.,GGG,0.09%
+Erie Indemnity Company Class A,ERIE,0.09%
+"Paycom Software, Inc.",PAYC,0.09%
+Waters Corporation,WAT,0.08%
+Omnicom Group Inc,OMC,0.07%
+SEI Investments Company,SEIC,0.07%
+"West Pharmaceutical Services, Inc.",WST,0.07%
+"Molina Healthcare, Inc.",MOH,0.07%
+Packaging Corporation of America,PKG,0.06%
+Solventum Corporation,SOLV,0.06%
+Avery Dennison Corporation,AVY,0.06%
+RPM International Inc.,RPM,0.06%
+United Therapeutics Corporation,UTHR,0.06%
+"American Financial Group, Inc.",AFG,0.06%
+A. O. Smith Corporation,AOS,0.05%
+"Reliance, Inc.",RS,0.05%
+"Interpublic Group of Companies, Inc.",IPG,0.04%
+U.S. Dollar,Other,0.02%
+Brown-Forman Corporation Class B,BF.B,0.02%
